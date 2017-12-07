@@ -2,7 +2,7 @@
 
 For those that have been having issues with pmset since getting an early 2015 MBP or newer, you are not alone. Sadly pmset is not documented worth a crap. 
 
-The long and short of the issue coems down to the new Wifi / Bluetooth cards. When you try to use the same pmset that has always worked your laptop will shutdown after about an hour of sleep. This has been overly annoying and I have been toying with pmset since Jan 2017 tring to find the correct combonation. 
+The long and short of the issue comes down to the new Wifi / Bluetooth cards. When you try to use the same pmset that has always worked with your laptop will shutdown after about an hour of sleep. This has been overly annoying and I have been toying with pmset since Jan 2017 tring to find the correct combonation. 
 
 Finally I has success. 
 
