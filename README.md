@@ -28,12 +28,12 @@ Finally I has success.
      acwake               0
      lidwake              1
  
- If you as lazy, you can pull the .sh file in this repo and run the following.
+ If you are lazy, you can pull the .sh file in this repo and run the following.
  
       $chmod +x pmset.sh
       $./pmset.sh
       
-This will apply the settings above. Happy sleeping with out issues. 
+This will apply the settings above. Happy sleeping with out shutdowns. 
 
 ## Note
 This only applys to Early 2015 MBP and newer. 
