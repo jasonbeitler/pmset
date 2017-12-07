@@ -6,27 +6,27 @@ The long and short of the issue comes down to the new Wifi / Bluetooth cards. Wh
 
 Finally I has success. 
 
-System-wide power settings:
- DestroyFVKeyOnStandby		1
-Currently in use:
- standbydelay         20
- standby              0
- womp                 0
- halfdim              1
- hibernatefile        /var/vm/sleepimage
- powernap             0
- gpuswitch            0
- networkoversleep     0
- disksleep            0
- sleep                0
- autopoweroffdelay    0
- hibernatemode        25
- autopoweroff         0
- ttyskeepawake        1
- displaysleep         166
- tcpkeepalive         0
- acwake               0
- lidwake              1
+    System-wide power settings:
+     DestroyFVKeyOnStandby		1
+    Currently in use:
+     standbydelay         20
+     standby              0
+     womp                 0
+     halfdim              1
+     hibernatefile        /var/vm/sleepimage
+     powernap             0
+     gpuswitch            0
+     networkoversleep     0
+     disksleep            0
+     sleep                0
+     autopoweroffdelay    0
+     hibernatemode        25
+     autopoweroff         0
+     ttyskeepawake        1
+     displaysleep         166
+     tcpkeepalive         0
+     acwake               0
+     lidwake              1
  
  If you as lazy, you can pull the .sh file in this repo and run the following.
  
