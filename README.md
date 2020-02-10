@@ -36,4 +36,5 @@ Finally I had success.
 This will apply the settings above. Happy sleeping with out shutdowns. 
 
 ## Note
-This only applys to Early 2015 MBP and newer. 
+* This only applys to Early 2015 MBP and newer.
+* Note if you have a MacBook Pro wtih a Touch Bar you will need to use the pmset_touchbar.sh file.
