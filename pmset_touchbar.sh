@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 sudo pmset -a DestroyFVKeyOnStandby		1
 sudo pmset -a standbydelaylow      60
