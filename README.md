@@ -1,4 +1,4 @@
-# pmset
+## pmset
 
 For those that have been having issues with pmset since getting an early 2015 MBP or newer, you are not alone. Sadly pmset is not documented worth a crap. 
 
